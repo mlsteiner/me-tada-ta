@@ -1,5 +1,8 @@
 # me-tada-ta
-`Me-tada-ta` is a small startup script for InDesign that automagically adds the name, author and file location of the current document to it's XMP Metadata upon save or export.
+`Me-tada-ta` is a small startup script for InDesign that automagically adds the file name, author's short name and file location of the current document to it's XMP Metadata upon save or export.
+
+## Why that's useful
+Exported documents retain this information, and allow you [ or others ] to track down the original author and/or the location of the digital file, even if the original file name is altered.
 
 ## Requirements
 This script has been lightly tested with the macOS version of Adobe InDesign CC 2018.
