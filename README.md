@@ -3,6 +3,7 @@
 
 Me-tada-ta consists of two parts:
 `Me-tada-ta.sh` scans the PDF document and decodes the encrypted string generated and embedded by `me-tada-ta_helper.jsx`
+
 `me-tada-ta_helper.jsx` is an InDesign startup script that automagically adds the file name, author's short name and file location of the current InDesign document as an encoded [ aes 256 ] string to the file's XMP Metadata upon save, save as, or export.
 
 ## Why that's useful
