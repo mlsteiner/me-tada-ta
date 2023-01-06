@@ -1,9 +1,9 @@
-// Name:			Me-tada-ta Helper for InDesign
+// Name:		Me-tada-ta Helper for InDesign
 // Description:		Automagically adds user and file location information to an InDesign document as an encoded string
-// Version:			2.0.2
-// URL:				https://github.com/mlsteiner/me-tada-ta
-// Author:			Mark Steiner
-// Date:			2022.11.16
+// Version:		2.0.2
+// URL:			https://github.com/mlsteiner/me-tada-ta
+// Author:		Mark Steiner
+// Date:		2022.11.16
 
 #target indesign
 #targetengine "session"
